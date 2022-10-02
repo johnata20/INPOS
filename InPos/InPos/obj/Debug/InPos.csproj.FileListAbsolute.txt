@@ -1,0 +1,8 @@
+D:\InPos\InPos\bin\Debug\InPos.exe.config
+D:\InPos\InPos\bin\Debug\InPos.exe
+D:\InPos\InPos\bin\Debug\InPos.pdb
+D:\InPos\InPos\obj\Debug\InPos.exe
+D:\InPos\InPos\obj\Debug\InPos.pdb
+D:\InPos\InPos\obj\Debug\InPos.csproj.AssemblyReference.cache
+D:\InPos\InPos\obj\Debug\InPos.csproj.SuggestedBindingRedirects.cache
+D:\InPos\InPos\obj\Debug\InPos.csproj.CoreCompileInputs.cache
